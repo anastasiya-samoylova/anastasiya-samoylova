@@ -10,7 +10,7 @@
 В днный момент ищу работу аналитиком данных.
 
 ###### Data Annalysis: 
-SQL, PySparkv, Статистика
+SQL, PySpark, Статистика
 
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
